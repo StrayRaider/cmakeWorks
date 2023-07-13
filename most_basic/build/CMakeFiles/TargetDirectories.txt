@@ -1,0 +1,3 @@
+/home/stray/Projects/cmk/build/CMakeFiles/Main.dir
+/home/stray/Projects/cmk/build/CMakeFiles/edit_cache.dir
+/home/stray/Projects/cmk/build/CMakeFiles/rebuild_cache.dir
